@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently learning with **#VetsWhoCode**
 
-- 🌱 I’m currently studying **HTML/CSS, Javascript and React**
+- 🌱 I’m currently studying ** Javascript with React**
 
 - 👨‍💻 Personal Site link [https://ryanrose.netlify.app/](https://ryanrose.netlify.app/)
 
-- ⚡ Fun fact: **Love hockey (Colorado Avalanche fan) and playing guitar**
+- ⚡ Fun fact: **Love to play guitar and Colorado Avalanche Hockey Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

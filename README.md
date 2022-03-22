@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying **Javascript with React**
 
-- 👨‍💻 Personal Site link [https://ryanrose.netlify.app/](https://ryanrose.netlify.app/)**
+- 👨‍💻 Personal Site link [https://ryanrose.netlify.app/](https://ryanrose.netlify.app/)
 
 - ⚡ Fun fact: **Love to play guitar and a big Colorado Avalanche Hockey Fan**
 

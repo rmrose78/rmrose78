@@ -1,13 +1,12 @@
-###<h1>Hi there, Im' Ryan👋</h1>
+h1 align="Center">Hi there, Im' Ryan👋</h1>
 
 
-##<h2>I'm a Husband, Father, and aspiring Developer</h2>
-<h3 align="center"> Current learning and training through the #VetsWhoCode organization with projected graduation in June 2022. I am currently based our of Augusta, GA area. </h3>
+<h2 align="left">I'm a Husband, Father, and aspiring Developer</h2>
 
+
+<h3 align="left"> Current learning and training through the #VetsWhoCode organization with projected graduation in June 2022. I am currently based our of Augusta, GA area. </h3>
 - 🌱 I’m currently studying **Javascript with React**
-
 - 👨‍💻 Personal Site link [https://ryanrose.netlify.app/](https://ryanrose.netlify.app/)
-
 - ⚡ Fun fact: **Love to play guitar and a big Colorado Avalanche Hockey Fan**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,3 +23,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmrose78&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmrose78&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+

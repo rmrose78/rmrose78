@@ -7,7 +7,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 I'm currently learning Frontend Development with the <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> Orgainzation.</li>
-<li>🔭 Preping to working on a Resume Generator for Vetrans🇺🇸 in collaboration with my <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> cohort.</li>
+<li>🔭 Preping to working on a Resume Generator for Vetran in collaboration with my <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> cohort.</li>
 <!-- <li>📙 Check out my general <a href="/ResumeRyanRose.pdf">resume</a></li> -->
 <li>👨‍💻 Checkout my <a href="https://ryanrose.netlify.app/">portfolio</a>.</li>
 <li>🎉 Fun Fact: Colorado Avalanche🏒 are going to win Stanley Cup 2022.</li>

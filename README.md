@@ -8,8 +8,8 @@
 <ul>
 <li>🧐 I'm currently learning Frontend Development with the <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> Orgainzation.</li>
 <li>🔭 in prepatation to start working on Resume Generator</a> in collaboration with my <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> cohort.</li>
-<!-- <li>📙 Check out my <a href="h">resume</a>Resume</li> -->
-<li> Checkout my <a href="https://ryanrose.netlify.app/">portfolio</a></li>
+<li>📙 Check out my general <a href="/ResumeRyanRose.pdf">resume</a>Resume</li>
+<li>👨‍💻 Checkout my <a href="https://ryanrose.netlify.app/">portfolio</a></li>
 <li>🎉 Fun Fact: I play guitar and I am a HUGE Avalanche Hockey fan</li>
 </ul>
 

@@ -1,5 +1,5 @@
 <h1 align="Center">Hi there, Im' Ryan👋</h1>
-
+<img align="Center" src="file:///Users/ryan/Downloads/Spinner-1s-721px.svg" />
 
 <h2 align="left">I'm a Husband, Father, and aspiring Developer</h2>
 

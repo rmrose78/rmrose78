@@ -1,8 +1,6 @@
-<h1 align="Center">Hi there, Im' Ryan👋</h1>
-<img align="Center" src="file:///Users/ryan/Downloads/Spinner-1s-721px.svg" />
+<img align="Center" src="/intro.svg" />
 
 <h2 align="left">I'm a Husband, Father, and aspiring Developer</h2>
-
 
 <h3 align="left"> Current learning and training through the #VetsWhoCode organization with projected graduation in June 2022. I am currently based our of Augusta, GA area. </h3>
 
@@ -24,8 +22,6 @@
 <br>
 <br>
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmrose78&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmrose78&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-

@@ -1,7 +1,7 @@
-<h1>### Hi there, Im' Ryan👋</h1>
+###<h1>Hi there, Im' Ryan👋</h1>
 
 
-<h2>## i'm a Husband, Father, and aspiring Developer</h2>
+##<h2>I'm a Husband, Father, and aspiring Developer</h2>
 <h3 align="center"> Current learning and training through the #VetsWhoCode organization with projected graduation in June 2022. I am currently based our of Augusta, GA area. </h3>
 
 - 🌱 I’m currently studying **Javascript with React**

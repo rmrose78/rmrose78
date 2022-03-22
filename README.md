@@ -4,11 +4,14 @@
 
 <h3 align="left"> Current learning and training through the #VetsWhoCode organization with projected graduation in June 2022. I am currently based our of Augusta, GA area. </h3>
 
-- 🌱 I’m currently studying **Javascript with React**
-
-- 👨‍💻 Personal Site link [https://ryanrose.netlify.app/](https://ryanrose.netlify.app/)
-
-- ⚡ Fun fact: **Love to play guitar and a big Colorado Avalanche Hockey Fan**
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🧐 I'm currently learning Frontend Development with the <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> Orgainzation.</li>
+<li>🔭 in prepatation to start working on Resume Generator</a> in collaboration with my <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> cohort.</li>
+<!-- <li>📙 Check out my <a href="h">resume</a>Resume</li> -->
+<li> Checkout my <a href="https://ryanrose.netlify.app/">portfolio</a></li>
+<li>🎉 Fun Fact: I play guitar and I am a HUGE Avalanche Hockey fan</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,8 @@
-<h1 align="center">Hi, All 👋</h1>
-<h3 align="center"> My name is Ryan Rose I am a aspiring Developer currently training through the #VetsWhoCode organization. I am looking for Developer opportunities in the Augusta, GA area. </h3>
+<h1>### Hi there, Im' Ryan👋</h1>
+
+
+<h2>## i'm a Husband, Father, and aspiring Developer</h2>
+<h3 align="center"> Current learning and training through the #VetsWhoCode organization with projected graduation in June 2022. I am currently based our of Augusta, GA area. </h3>
 
 - 🌱 I’m currently studying **Javascript with React**
 

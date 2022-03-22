@@ -2,15 +2,15 @@
 
 <h2 align="left">I'm a Husband, Father, and aspiring Developer</h2>
 
-<h3 align="left"> Current learning and training through the #VetsWhoCode organization with projected graduation in June 2022. I am currently based our of Augusta, GA area. </h3>
+<h3 align="left"> I am currently based our of Augusta, GA area. </h3>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🧐 I'm currently learning Frontend Development with the <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> Orgainzation.</li>
 <li>🔭 in prepatation to start working on Resume Generator</a> in collaboration with my <a href="https://www.vetswhocode.io/about">#VetWhoCodes</a> cohort.</li>
 <!-- <li>📙 Check out my general <a href="/ResumeRyanRose.pdf">resume</a></li> -->
-<li>👨‍💻 Checkout my <a href="https://ryanrose.netlify.app/">portfolio</a></li>
-<li>🎉 Fun Fact: I play guitar and I am a HUGE Avalanche Hockey fan</li>
+<li>👨‍💻 Checkout my <a href="https://ryanrose.netlify.app/">portfolio</a></li>.
+<li>🎉 Fun Fact: Colorado Avalanche are going to win Stanley Cup 2022.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>

@@ -20,4 +20,7 @@
 
 [![rmrose78's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmrose78)](https://github.com/rmrose78/github-readme-stats)
 
+![rmrose78's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmrose78&show_icons=true&theme=radical)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmrose78&layout=compact)](https://github.com/rmrose78/github-readme-stats)

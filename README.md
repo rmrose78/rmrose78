@@ -1,6 +1,6 @@
 <img align="Center" src="/intro.svg" />
 
-<h2 align="left">Husband, Father, and aspiring Developer</h2>
+<h2 align="left">Husband, Father, and Developer</h2>
 
 <h3 align="left"> Based out of the Augusta, GA area. </h3>
 

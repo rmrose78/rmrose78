@@ -8,7 +8,6 @@
 <li>🎖️ Veteran | U.S. Army</li>
 <li>🔭 Currently seeking frontend roles in the Maryland/DC corridor or remote</li>
 <li>👨‍💻 Check out my <a href="https://ryanrose.netlify.app/">portfolio</a></li>
-<li>🎉 Fun Fact: Colorado Avalanche won the Stanley Cup 2022. 🏒</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>

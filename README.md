@@ -5,7 +5,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>💻 Frontend Developer with nearly 4 years of production experience in React and TypeScript</li>
-<li>🎖️ U.S. Army Veteran | Military Intelligence | Afghanistan Veteran</li>
+<li>🎖️ Veteran | U.S. Army</li>
 <li>🔭 Currently seeking frontend roles in the Maryland/DC corridor or remote</li>
 <li>👨‍💻 Check out my <a href="https://ryanrose.netlify.app/">portfolio</a></li>
 <li>🎉 Fun Fact: Colorado Avalanche won the Stanley Cup 2022. 🏒</li>

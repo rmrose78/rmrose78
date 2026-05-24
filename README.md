@@ -7,7 +7,7 @@
 <li>💻 Frontend Developer with nearly 4 years of production experience in React and TypeScript</li>
 <li>🎖️ Veteran | U.S. Army</li>
 <li>🔭 Currently seeking frontend roles in the Maryland/DC corridor or remote</li>
-<li>👨‍💻 Check out my <a href="https://ryanrose.netlify.app/">personal site</a></li>
+<li>👨‍💻 Check out my <a href="https://www.ryanmrose.com/">personal site</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>

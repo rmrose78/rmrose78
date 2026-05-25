@@ -1,4 +1,4 @@
-<img align="Center" src="/intro.svg" />
+<!-- <img align="Center" src="/intro.svg" /> -->
 <h2 align="left">Husband, Father, Developer, and U.S. Army Veteran</h2>
 <h3 align="left">Based in Pasadena, MD</h3>
 

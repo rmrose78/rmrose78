@@ -1,11 +1,15 @@
 <!-- <img align="Center" src="/intro.svg" /> -->
-Based in Pasadena, MD
 ⚡️ A Few Quick Facts
 
 - 💻 Frontend Developer, ~4 years production React + TypeScript
 - 🎖️ U.S. Army Veteran
 - 🔭 Open to frontend roles in Maryland/DC corridor or remote
-- 🌐 ryanrosedev.com272626170" height="30" width="40" /></a>
+- 🌐 [ryanrosedev.com](https://ryanrosedev.com)
+
+<p align="left">
+  <a href="https://linkedin.com/in/ryan-rose-272626170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,18 +1,11 @@
 <!-- <img align="Center" src="/intro.svg" /> -->
-<h2 align="left">Husband, Father, Developer, and U.S. Army Veteran</h2>
-<h3 align="left">Based in Pasadena, MD</h3>
+Based in Pasadena, MD
+⚡️ A Few Quick Facts
 
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>💻 Frontend Developer with nearly 4 years of production experience in React and TypeScript</li>
-<li>🎖️ Veteran | U.S. Army</li>
-<li>🔭 Currently seeking frontend roles in the Maryland/DC corridor or remote</li>
-<li>👨‍💻 Check out my <a href="https://www.ryanmrose.com/">personal site</a></li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ryan-rose-272626170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-rose-272626170" height="30" width="40" /></a>
+- 💻 Frontend Developer, ~4 years production React + TypeScript
+- 🎖️ U.S. Army Veteran
+- 🔭 Open to frontend roles in Maryland/DC corridor or remote
+- 🌐 ryanrosedev.com272626170" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

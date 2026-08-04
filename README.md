@@ -3,7 +3,6 @@
 
 - 💻 Frontend Developer, ~4 years production React + TypeScript
 - 🎖️ U.S. Army Veteran
-- 🔭 Open to frontend roles in Maryland/DC corridor or remote
 - 🌐 [ryanrosedev.com](https://ryanrosedev.com)
 
 <br />
